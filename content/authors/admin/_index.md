@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Ling Bai
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ling
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ling
+last_name: Bai
 
 # Status emoji
 status:
