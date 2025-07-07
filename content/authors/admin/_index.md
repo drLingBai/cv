@@ -59,7 +59,7 @@ interests:
   - Data Analysis and Mining
   - Anomaly Detection
   - Digital Twin
-  - etc.
+  - etc
 
 education:
   - area: Ph.D in Computer Engineering 
