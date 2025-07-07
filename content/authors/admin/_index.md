@@ -20,73 +20,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lingbai.work@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://x.com/LingBaiUBC/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+ # - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+ #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=2_5kVY8AAAAJ&hl=en
+ # - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Computer Engineering
+  - Embedded and Intelligent traffic/robotics system
+  - 2D/3D Computer Vision and Applications
+  - Artificial Intelligence, Machine Learning, Deep Learning
+  - Intelligent Environment Perception
+  - Multi-sensor Fusion
+  - Data Analysis and Mining
+  - Anomaly Detection
+  - Digital Twin
+  - etc.
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
+  - area: Ph.D in Computer Engineering 
+    institution: Computer Science and Technology; Electrical & Computer Engineering
+   # date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+ #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+ #   button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+ #     url: 'https://example.com'
+    - area: MSc in Computer Engineering 
+    institution: Computer Science and Technology
+ #   date_start: 2016-01-01
+ #   date_end: 2020-12-31
+ #   summary: |
+   #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+ #     Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area:  BSc in Software Engineering 
+    institution: Software Engineering
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position:Research Fellow
+    company_name: The University of British Columbia
+    company_url: 'https://www.ubc.ca/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
