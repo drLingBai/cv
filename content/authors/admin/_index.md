@@ -60,7 +60,6 @@ interests:
   - Anomaly Detection
   - Digital Twin
   - etc
-
 education:
    - area:  PhD in Computer Engineering 
     institution: Computer Science and Technology; Electrical & Computer Engineering
