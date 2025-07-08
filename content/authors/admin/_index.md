@@ -38,7 +38,7 @@ profiles:
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
  # - icon: brands/github
-#    url: https://github.com/gcushen
+# url: https://github.com/gcushen
 #  - icon: brands/linkedin
  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -59,10 +59,10 @@ interests:
   - Data Analysis and Mining
   - Anomaly Detection
   - Digital Twin
-    
+  -     
 education:
-# area: PhD in Computer Engineering 
-    institution: Computer Science and Technology; Electrical & Computer Engineering
+  - area: PhD in Computer Engineering 
+  institution: Computer Science and Technology; Electrical & Computer Engineering
    # date_start: 2016-01-01
   #  date_end: 2020-12-31
   #  summary: |
