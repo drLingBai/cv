@@ -62,7 +62,7 @@ interests:
   - etc
 
 education:
-  - area:  PhD in Computer Engineering 
+   - area:  PhD in Computer Engineering 
     institution: Computer Science and Technology; Electrical & Computer Engineering
    # date_start: 2016-01-01
   #  date_end: 2020-12-31
